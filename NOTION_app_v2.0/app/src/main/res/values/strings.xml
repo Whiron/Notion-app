@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQL park</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="build_array">
+        <item>Alpha one</item>
+        <item>Himalya Mall</item>
+        <item>Rajhans</item>
+    </string-array>
+</resources>

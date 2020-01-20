@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\NOTION_me\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "H:\\NOTION_me\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "H:\\android\\NOTION-20180311T182502Z-001\\NOTION\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "H:\\android\\NOTION-20180311T182502Z-001\\NOTION\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jaymi\\Desktop\\NOTION\\NOTION\\NOTION\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\jaymi\\Desktop\\NOTION\\NOTION\\NOTION\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]

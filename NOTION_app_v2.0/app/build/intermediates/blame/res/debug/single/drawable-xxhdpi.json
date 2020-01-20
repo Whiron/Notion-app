@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "H:\\android\\NOTION-20180311T182502Z-001\\NOTION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "H:\\android\\NOTION-20180311T182502Z-001\\NOTION\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "H:\\android\\NOTION-20180311T182502Z-001\\NOTION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "H:\\android\\NOTION-20180311T182502Z-001\\NOTION\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "H:\\NOTION_me\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "H:\\NOTION_me\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "H:\\NOTION_me\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "H:\\NOTION_me\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jaymi\\Desktop\\NOTION\\NOTION\\NOTION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\jaymi\\Desktop\\NOTION\\NOTION\\NOTION\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    }
+]

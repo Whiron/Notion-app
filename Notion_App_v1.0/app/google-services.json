@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178658836161",
+    "firebase_url": "https://notionapp-6e5b6.firebaseio.com",
+    "project_id": "notionapp-6e5b6",
+    "storage_bucket": "notionapp-6e5b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178658836161:android:0ac90fcb74ac58ca",
+        "android_client_info": {
+          "package_name": "com.example.sarthak.notion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178658836161-rq7uv0iakv5204kusfig553ir0jl8rqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarthak.notion_app",
+            "certificate_hash": "f7eceab19945574ea7a5f0819e0b8ae0fa93b24b"
+          }
+        },
+        {
+          "client_id": "178658836161-2mvaoum2vlrah1rjo9o4b4a696rd8hc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rjvBZ21wbJxRTeQdC6Xil1PhA4d-l5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178658836161-2mvaoum2vlrah1rjo9o4b4a696rd8hc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

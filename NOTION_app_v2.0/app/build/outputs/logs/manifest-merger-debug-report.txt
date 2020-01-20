@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.android\build-cache\b4a6bfdd55ccc71e63ef953e035f5374d18ab86f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Sarthak\.android\build-cache\6c98faff9a7915bb7a5b3b98d63ccf9d25e84ebf\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.0.0] C:\Users\Sarthak\.android\build-cache\675e9f8be0f8283a496485b8ad6d2baa79cf0c55\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sarthak\.android\build-cache\fd1f9a9557f2bb6e74db4e03eada927e8247fe62\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sarthak\.android\build-cache\eb6c80a846f39139cc1fda7c7fceaa9950f435f0\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Sarthak\.android\build-cache\5d87d4396c0dd09ed5f4c4fe7026baf43de0673c\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Sarthak\.android\build-cache\36ebb26b3650570590ed3a4fdd2057f363b14b56\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.appnucleus.barcodeandqrscanner.LoginActivity
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:14:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.appnucleus.barcodeandqrscanner.Activity_Main
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.appnucleus.barcodeandqrscanner.UserLoginActivity
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:23:19-52
+activity#com.appnucleus.barcodeandqrscanner.resultActivity
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:24:19-49
+activity#com.appnucleus.barcodeandqrscanner.RegisterActivity
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:25:19-51
+activity#com.appnucleus.barcodeandqrscanner.UserActivity
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.appnucleus.barcodeandqrscanner.Activity_Main_1
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:27:19-50
+activity#com.appnucleus.barcodeandqrscanner.TryActivity
+ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:28:9-58
+	android:name
+		ADDED from H:\NOTION_me\app\src\main\AndroidManifest.xml:28:19-46
+uses-sdk
+INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.android\build-cache\b4a6bfdd55ccc71e63ef953e035f5374d18ab86f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.3] C:\Users\Sarthak\.android\build-cache\9c8588358b7614b6fefb9355f0a59363da30f7fe\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Sarthak\.android\build-cache\6c98faff9a7915bb7a5b3b98d63ccf9d25e84ebf\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:23.0.0] C:\Users\Sarthak\.android\build-cache\675e9f8be0f8283a496485b8ad6d2baa79cf0c55\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sarthak\.android\build-cache\fd1f9a9557f2bb6e74db4e03eada927e8247fe62\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Sarthak\.android\build-cache\eb6c80a846f39139cc1fda7c7fceaa9950f435f0\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Sarthak\.android\build-cache\5d87d4396c0dd09ed5f4c4fe7026baf43de0673c\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Sarthak\.android\build-cache\36ebb26b3650570590ed3a4fdd2057f363b14b56\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Sarthak\.android\build-cache\fd1f9a9557f2bb6e74db4e03eada927e8247fe62\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml
+		INJECTED from H:\NOTION_me\app\src\main\AndroidManifest.xml

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarthak\.android\build-cache\675e9f8be0f8283a496485b8ad6d2baa79cf0c55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="H:\android\NOTION-20180311T182502Z-001\NOTION\app\build\intermediates\pre-dexed\debug\classes_c44bffffc33b42b04dff48eae3446f66c5e5ba8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarthak\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="H:\android\NOTION-20180311T182502Z-001\NOTION\app\build\intermediates\pre-dexed\debug\core-3.2.1_0830331a532435164a0c4cdebc1b152248fcaaa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarthak\.android\build-cache\6c98faff9a7915bb7a5b3b98d63ccf9d25e84ebf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="H:\android\NOTION-20180311T182502Z-001\NOTION\app\build\intermediates\pre-dexed\debug\classes_49aa95cf62b4e2294c63163d38b757bc323bcc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarthak\.android\build-cache\9c8588358b7614b6fefb9355f0a59363da30f7fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ded76870e286da76793d7bfeaf65e6660f1bec08">
+        <dex dex="H:\android\NOTION-20180311T182502Z-001\NOTION\app\build\intermediates\pre-dexed\debug\classes_fae75d697f4e3eda8c5497fc0e7a626b7a40e372.jar" />
+    </item>
+
+</items>
